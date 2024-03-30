@@ -39,6 +39,7 @@ public class Assignment {
             Main.main(argList.toArray(new String[0]));
         } else {
             System.out.println("Usage: -cp <CLASS_PATH> -m <CLASS_NAME>");
+            //提交测试
         }
     }
 }
